@@ -1,1 +1,6 @@
-Version from main
+Main branch version:
+Version from main.
+
+Conflict-test branch version:
+Version from conflict-test.
+
