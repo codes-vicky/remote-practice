@@ -1,6 +1,11 @@
-line1
-line2
-line3
-Line 5
-Line4
-Line 6
+<<<<<<< HEAD
+Version from main
+=======
+Main branch version:
+Version from main.
+
+Conflict-test branch version:
+Version from conflict-test.
+
+Another change
+>>>>>>> c66c9d3 (Update notes file)
