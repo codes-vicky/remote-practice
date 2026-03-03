@@ -5,3 +5,6 @@ Conflict-test branch version:
 Version from conflict-test.
 
 Another change
+- Remember to practice git stash
+Another test change for stash demo
+Some changes for version 1.2.0
